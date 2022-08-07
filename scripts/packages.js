@@ -60,7 +60,7 @@ module.exports = [
   //{
   //  name: 'luci-app-cpufreq',
   //  desc: 'CPU 性能优化调节',
-  },
+  //},
   // {
   //   name: 'luci-app-samba4',
   //   desc: 'samba4文件共享',
@@ -76,7 +76,7 @@ module.exports = [
   //{
   //  name: 'luci-app-ttyd',
   //  desc: 'ttyd 终端',
-  },
+  //},
   // {
   //   name: 'luci-app-unblockneteasemusic',
   //   desc: '解锁网易云音乐 (无界面)',
