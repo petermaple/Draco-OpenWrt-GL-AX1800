@@ -44,5 +44,6 @@ packages:
   - luci-app-ramfree
   - luci-app-smartdns
   - luci-app-turboacc
+  - luci-app-passwall
   - luci-app-ssr-plus
   - luci-app-frpc
