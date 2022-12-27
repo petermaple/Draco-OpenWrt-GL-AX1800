@@ -11,7 +11,7 @@ feeds:
     path: ../../feeds/wifi-ax
   - name: gl_feeds_common
     uri: https://github.com/gl-inet/gl-feeds.git
-    branch: common
+    revision: f86ec7f77b7a36c96a9b5a9b7fea30ccc9ac5fe6
   - name: luci
     uri: https://github.com/openwrt/luci.git
     revision: 1c3b32dc1bec15e3076a447762b1c4f94eb75fb7
@@ -22,7 +22,7 @@ feeds:
   - name: kenzok8_packages
     uri: https://github.com/kenzok8/openwrt-packages.git
     branch: master
-    revision: aa138685f082cde70b9346dec268ddfa6246e44f
+    revision: acea7be46975a5bf5a62cc6627a7168fe3252a20
   - name: immortalwrt_luci
     uri: https://github.com/immortalwrt/luci.git
     branch: openwrt-21.02
@@ -30,7 +30,7 @@ feeds:
   - name: kenzok8_small
     uri: https://github.com/kenzok8/small.git
     branch: master
-    revision: ed9e68179009eaa24010dee607b045d702070cdf
+    revision: a06a0304038550b6ddae883fa1f494ea6500392a
   - name: lienol_packages
     uri: https://github.com/Lienol/openwrt-package.git
     branch: main
