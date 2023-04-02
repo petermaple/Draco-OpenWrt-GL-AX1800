@@ -20,15 +20,15 @@ feeds:
   - name: kenzok8_packages
     uri: https://github.com/kenzok8/openwrt-packages.git
     branch: master
-    revision: 8180d1b47260e0a948232799289915101291dbfa
+    revision: 49c1853f755c318af0c89427d5c634a360c36463
   - name: immortalwrt_luci
     uri: https://github.com/immortalwrt/luci.git
     branch: openwrt-21.02
-    revision: ee0c5482a069ae07df63e68be069401a522ca88b
+    revision: 7936a63e39b2d8aea91a68959fd37897867c5509
   - name: kenzok8_small
     uri: https://github.com/kenzok8/small.git
     branch: master
-    revision: 4dffa1ec1abfeeeb14d8e436cd0dd48f034c457b
+    revision: 116535bff3ddba98a4985d2549bf5fbb55109603
   - name: lienol_packages
     uri: https://github.com/Lienol/openwrt-package.git
     branch: main
