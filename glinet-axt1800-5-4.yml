@@ -28,7 +28,7 @@ feeds:
   - name: kenzok8_small
     uri: https://github.com/kenzok8/small.git
     branch: master
-    revision: 4395611bc7f188be04eba85401bb6d64e2bd23b8
+    revision: 4fe0415812f3f145f5a08fa7066de213cb80d075
   - name: lienol_packages
     uri: https://github.com/Lienol/openwrt-package.git
     branch: main
